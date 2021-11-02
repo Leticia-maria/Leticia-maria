@@ -11,6 +11,16 @@ println("Hello, World!")
 - 📫 email: leticia.maria@grad.ufsc.br
 - Turing Machine Learning developer and Scientific/Mathematics Tools programmer from Federal University of Santa Catarina
 
+<p>
+  <img alt="Julia" src="https://img.shields.io/badge/Julia-00ADD8?flat-square&logo=go&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?flat-square&logo=postgresql&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</p>
 
 <p align="center">
   <a href="mailto:leticiapequeno30@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
