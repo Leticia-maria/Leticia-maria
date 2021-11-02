@@ -1,9 +1,5 @@
 ## Welcome everyone, I'm Letícia Maria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-```julia:./ex11
-println("Hello, World!")
-```
-
 - 👀 I’m interested in Julia Development, Python Projects
 - 🌱 I’m currently learning to live, to code and how to do chemistry computationally
 - 💞️ I’m looking to collaborate on Python and Julia projects
@@ -23,6 +19,9 @@ println("Hello, World!")
 
 </p>
 
+```julia:./ex11
+Hey, you can follow me on my social networks below:
+```
 <p align="left">
   <a href="mailto:leticiapequeno30@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/LetciaMariaPeq1"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
