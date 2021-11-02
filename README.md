@@ -20,7 +20,7 @@
 </p>
 
 ```julia:./ex11
-Hey, you can follow me on my social networks below:
+Hey, you can follow me in the social networks below:
 ```
 <p align="left">
   <a href="mailto:leticiapequeno30@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
