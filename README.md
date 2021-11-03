@@ -6,6 +6,15 @@
 - 📫 email: leticia.maria@grad.ufsc.br
 - Turing Machine Learning developer and Scientific/Mathematics Tools programmer from Federal University of Santa Catarina
 
+</div>
+
+ <div align="center">
+  <a href="https://github.com/Leticia-maria">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Leticia-maria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-maria&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
 <p>
   <img alt="Julia" src="https://img.shields.io/badge/Julia-00ADD8?flat-square&logo=julia&logoColor=white" />
   <img alt="Gtk" src="https://img.shields.io/badge/Gtk-00ADD8?flat-square&logo=gtk&logoColor=white" />
