@@ -27,6 +27,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </p>
+ 
+ ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
+
 
 ```julia:./ex11
 Hey, you can follow me in the social networks below:
