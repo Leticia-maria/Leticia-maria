@@ -17,8 +17,9 @@
  <h3>OS </h3>
  <div style="display: inline_block">
   <img align="center" alt="Lari-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
+    <img align="center" alt="Lari-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg"/>
   <img align="center" alt="Lari-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"/>
-
+  <img align="center" alt="Lari-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"/>
 </div>
    
 </div>
