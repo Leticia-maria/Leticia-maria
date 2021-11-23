@@ -27,10 +27,10 @@
    </div>
 
 <!-- TODO: Make technologies links takes you to repositories -->
- <h3>Text editors </h3>
- <div style="display: inline_block">
-  <img align="center" alt="Lari-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"/>
-  <img align="center" alt="Lari-Atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"/>
+<h3>Text editors </h3>
+<div style="display: inline_block">
+ <img align="center" alt="Lari-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"/>
+ <img align="center" alt="Lari-Atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"/>
  <img align="center" alt="Lari-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"/>
 </div>
    
@@ -52,11 +52,10 @@
 <!-- TODO: Make technologies links takes you to repositories -->
  <h3>Technologies </h3>
  <div style="display: inline_block">
-   <img align="center" alt="Lari-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
- <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
-   <img align="center" alt="Lari-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-    <img align="center" alt="Lari-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
-
+  <img align="center" alt="Lari-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+  <img align="center" alt="Lari-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+  <img align="center" alt="Lari-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
 </div>
 
 
