@@ -49,7 +49,7 @@
 </div>
 
 <!-- TODO: Make technologies links takes you to repositories -->
- <h3>Languages </h3>
+ <h3>Technologies </h3>
  <div style="display: inline_block">
    <img align="center" alt="Lari-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
  <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
