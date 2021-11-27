@@ -17,7 +17,8 @@
  <h3>OS </h3>
  <div style="display: inline_block">
   <img align="center" alt="Lari-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
-    <img align="center" alt="Lari-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg"/>
+  <img align="center" alt="Lari-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg"/>
+  <img align="center" alt="Lari-RedHat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-plain.svg"/>
   <img align="center" alt="Lari-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"/>
   <img align="center" alt="Lari-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"/>
 </div>
@@ -41,10 +42,10 @@
  <div style="display: inline_block">
   <img align="center" alt="Lari-Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"/>
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"/>
-  <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Lari-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"/>
   <img align="center" alt="Lari-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
+  <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 </div>
 
 </div>
