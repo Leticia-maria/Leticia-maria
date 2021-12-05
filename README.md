@@ -63,7 +63,9 @@
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
 
+[![Letícia Maria GitHub - Profile Views](https://komarev.com/ghpvc/?username=Leticia-maria&label=Profile+Views&style=flat-square&color=blue)](https://github.com/Leticia-maria?tab=repositories&sort=stargazers)
 
+[![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/LetciaMariaPeq1)
 <!---
 Leticia-maria/Leticia-maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
