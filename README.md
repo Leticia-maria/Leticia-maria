@@ -62,6 +62,7 @@
 
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
+
 [![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/LetciaMariaPeq1)
 
 <!---
