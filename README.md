@@ -6,6 +6,7 @@
 - 📫 email: leticia.maria@grad.ufsc.br
 - Turing Machine Learning developer and Scientific/Mathematics Tools programmer from Federal University of Santa Catarina
 - This profile gives priority to: code legibility, quality and self-understable algorithms
+- I do science for helping people
 <!-- TODO: Add last video link -->
  <div>
   <a href="https://github.com/Leticia-maria">
