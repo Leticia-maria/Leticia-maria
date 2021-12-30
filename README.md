@@ -1,18 +1,20 @@
 ## Welcome everyone, I'm Letícia Maria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-- 👀 I’m interested in Julia Development, Python Projects
-- 🌱 I’m currently learning to live, to code and how to do chemistry computationally
-- 💞️ I’m looking to collaborate on Python and Julia projects
-- 📫 email: leticia.maria@grad.ufsc.br
-- Turing Machine Learning developer and Scientific/Mathematics Tools programmer from Federal University of Santa Catarina
-- This profile gives priority to: code legibility, quality and self-understable algorithms
-- I do science for helping people
+<!-- 👀 I’m interested in Julia Development, Python Projects -->
+<!-- 🌱 I’m currently learning to live, to code and how to do chemistry computationally -->
+<!-- 💞️ I’m looking to collaborate on Python and Julia projects -->
+<!-- 📫 email: leticia.maria@grad.ufsc.br -->
+<!-- Turing Machine Learning developer and Scientific/Mathematics Tools programmer from Federal University of Santa Catarina -->
+<!-- This profile gives priority to: code legibility, quality and self-understable algorithms -->
+<!-- I do science for helping people -->
 <!-- TODO: Add last video link -->
  <div>
   <a href="https://github.com/Leticia-maria">
    
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-maria)](https://github.com/anuraghazra/github-readme-stats)
-
+[![](profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
+[![](profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+   
    </div>
 
 <!-- TODO: Make technologies links takes you to repositories -->
