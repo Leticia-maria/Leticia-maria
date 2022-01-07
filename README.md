@@ -1,5 +1,7 @@
 ## Welcome everyone, I'm Letícia Maria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
+![Cat gif](cat-gray.gif)
+
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
 <!-- 🌱 I’m currently learning to live, to code and how to do chemistry computationally -->
 <!-- 💞️ I’m looking to collaborate on Python and Julia projects -->
