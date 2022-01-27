@@ -20,53 +20,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leticia-maria&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    
-   </div>
-
-<!-- TODO: Make technologies links takes you to repositories -->
- <h3>OS </h3>
- <div style="display: inline_block">
-  <img align="center" alt="Lari-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
-  <img align="center" alt="Lari-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg"/>
-  <img align="center" alt="Lari-RedHat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-plain.svg"/>
-  <img align="center" alt="Lari-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"/>
-  <img align="center" alt="Lari-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"/>
-</div>
-   
-</div>
-
-   </div>
-
-<!-- TODO: Make technologies links takes you to repositories -->
-<h3>Text editors </h3>
-<div style="display: inline_block">
- <img align="center" alt="Lari-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"/>
- <img align="center" alt="Lari-Atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"/>
- <img align="center" alt="Lari-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"/>
-</div>
-   
-</div>
-
-<!-- TODO: Make technologies links takes you to repositories -->
- <h3>Languages </h3>
- <div style="display: inline_block">
-  <img align="center" alt="Lari-Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"/>
-  <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"/>
-  <img align="center" alt="Lari-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"/>
-  <img align="center" alt="Lari-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
-  <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-</div>
-
-</div>
-
-<!-- TODO: Make technologies links takes you to repositories -->
- <h3>Technologies </h3>
- <div style="display: inline_block">
-  <img align="center" alt="Lari-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
-  <img align="center" alt="Lari-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-  <img align="center" alt="Lari-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
-</div>
 
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
