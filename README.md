@@ -12,6 +12,7 @@
 [![Letícia Maria GitHub - GitHub followers](https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub&logo=GitHub&style=for-the-badge)](https://twitter.com/LetciaMariaPeq1)
 [![Letícia Maria GitHub - Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
 [![Letícia Maria GitHub - Youtube views](https://img.shields.io/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?label=Views&logo=YouTube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
+
  
 </div>
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
@@ -30,7 +31,7 @@
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
 
-
+[![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
 </div>
  
