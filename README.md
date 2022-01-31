@@ -1,5 +1,10 @@
 #
-![Hello world, I'm Letícia Maria(1)](https://user-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif)
+<div align='center'>
+
+<img src="https://user-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif" alt="Welcome!" width="750"/>
+
+</div>
+
 #
 <div align='center'>
  
