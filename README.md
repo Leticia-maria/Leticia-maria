@@ -10,21 +10,24 @@
 <!-- This profile gives priority to: code legibility, quality and self-understable algorithms -->
 <!-- I do science for helping people -->
 <!-- TODO: Add last video link -->
- <div>
  
   <a href="https://github.com/Leticia-maria">
-   
-[![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
+ 
+<div align=center>  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leticia-maria&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-   
-
+ [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
 
-[![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/LetciaMariaPeq1)
+[![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?logo=twitter&style=for-the-badge&color=blue)](https://github.com/Leticia-maria)
+[![Letícia Maria GitHub - GitHub followers](https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub%20Followers&logo=GitHub&style=for-the-badge)](https://twitter.com/LetciaMariaPeq1)
+[![Letícia Maria GitHub - Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?label=Youtube%20subscribers&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
+[![Letícia Maria GitHub - Youtube views](https://img.shields.io/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?label=Views&logo=YouTube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
+ 
+</div>
+ 
 
 <!---
 Leticia-maria/Leticia-maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
