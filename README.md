@@ -8,9 +8,9 @@
 #
 <div align='center'>
  
-[![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?logo=twitter&style=for-the-badge&color=blue)](https://github.com/Leticia-maria)
-[![Letícia Maria GitHub - GitHub followers](https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub%20Followers&logo=GitHub&style=for-the-badge)](https://twitter.com/LetciaMariaPeq1)
-[![Letícia Maria GitHub - Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?label=Youtube%20subscribers&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
+[![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://github.com/Leticia-maria)
+[![Letícia Maria GitHub - GitHub followers](https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub&logo=GitHub&style=for-the-badge)](https://twitter.com/LetciaMariaPeq1)
+[![Letícia Maria GitHub - Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
 [![Letícia Maria GitHub - Youtube views](https://img.shields.io/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?label=Views&logo=YouTube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
  
 </div>
