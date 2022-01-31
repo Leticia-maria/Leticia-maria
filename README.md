@@ -61,9 +61,11 @@
 
 > 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
+>> *Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda*
 
-<a href="https://calendly.com/leticiapequeno30/35min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<div align=center>
+<a href="https://calendly.com/leticiapequeno30/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+</div>
 
 <!---
 Leticia-maria/Leticia-maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
