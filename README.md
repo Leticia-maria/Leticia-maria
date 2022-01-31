@@ -1,25 +1,26 @@
-#
+---
+
 <div align='center'>
 
 <img src="https://user-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif" alt="Welcome!" width="750"/>
-
-</div>
-
-#
-<div align='center'>
+<br> </br>
  
 [![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://github.com/Leticia-maria)
 [![Letícia Maria GitHub - GitHub followers](https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub&logo=GitHub&style=for-the-badge)](https://twitter.com/LetciaMariaPeq1)
 [![Letícia Maria GitHub - Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
 [![Letícia Maria GitHub - Youtube views](https://img.shields.io/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?label=Views&logo=YouTube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
+![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei)
+
 
 </div>
 
-
+---
 
 <p align=center>
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-45b8d8?style=for-the-badge&logo=julia&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -47,8 +48,17 @@
 [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
 </div>
- 
- 
+
+<details>
+    <summary style="cursor: pointer;">
+        <strong>Want to collaborate on my projects?</strong>
+    </summary>
+    <p>
+        I currently write projects in Julia, Rust, Python, Bash and JavaScript. I do Youtube tutorials with Jupyter. I intend to learn Elm and Elixir. If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me.
+    </p>
+</details>
+
+
 
 <!---
 Leticia-maria/Leticia-maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
