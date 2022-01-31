@@ -13,8 +13,19 @@
 [![Letícia Maria GitHub - Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
 [![Letícia Maria GitHub - Youtube views](https://img.shields.io/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?label=Views&logo=YouTube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
 
- 
 </div>
+
+<p align=center>
+  <img alt="Julia" src="https://img.shields.io/badge/-Julia-45b8d8?style=for-the-badge&logo=julia&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
 <!-- 🌱 I’m currently learning to live, to code and how to do chemistry computationally -->
 <!-- 💞️ I’m looking to collaborate on Python and Julia projects -->
@@ -34,6 +45,7 @@
 [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
 </div>
+ 
  
 
 <!---
