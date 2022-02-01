@@ -52,7 +52,8 @@
 [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
 
-
+---
+ 
 <details align=center>
     <summary align=center style="cursor: pointer;">
         <strong>Want to collaborate on my projects?</strong>
@@ -67,9 +68,11 @@
  
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. 
 *Pick a slot **below** if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda*
+
  
 [![Letícia Maria GitHub - Calendly](https://img.shields.io/badge/-Calendly-green?style=for-the-badge&logo=calendly&logoColor=white&link=)](https://calendly.com/leticiapequeno30/30min)
 
+ ---
  
 <img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="750"/>
 
