@@ -70,8 +70,12 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
  
 [![Letícia Maria GitHub - Calendly](https://img.shields.io/badge/-Calendly-green?style=for-the-badge&logo=calendly&logoColor=white&link=)](https://calendly.com/leticiapequeno30/30min)
 
- </div>
+ 
+<img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="750"/>
 
+ </div>
+ 
+ 
 
 <!---
 Leticia-maria/Leticia-maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
