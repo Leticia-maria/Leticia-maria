@@ -10,8 +10,7 @@
 [![Letícia Maria GitHub - Youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
 [![Letícia Maria GitHub - Youtube views](https://img.shields.io/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?label=Views&logo=YouTube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w) 
 ![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei)
-
-
+<a href="mailto:leticiapequeno30@gmail.com?subject=Hello%20Leticia,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
