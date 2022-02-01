@@ -27,6 +27,8 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/-Vim-46a2f1?style=for-the-badge&logo=vim&logoColor=white" />
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-F7DF1E?style=for-the-badge&logo=elixir&logoColor=black" />
 </p>
 
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
