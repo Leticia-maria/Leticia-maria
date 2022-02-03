@@ -19,6 +19,9 @@
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-45b8d8?style=for-the-badge&logo=julia&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-DD0031?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F05032?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Latex" src="https://img.shields.io/badge/-Latex-5849BE?style=for-the-badge&logo=latex&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -27,6 +30,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-46a2f1?style=for-the-badge&logo=vim&logoColor=white" />
+  <img alt="Nim" src="https://img.shields.io/badge/-Nim-46a2f1?style=for-the-badge&logo=nim&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-F7DF1E?style=for-the-badge&logo=elixir&logoColor=black" />
 </p>
 
