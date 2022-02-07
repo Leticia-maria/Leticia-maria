@@ -32,6 +32,7 @@
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-46a2f1?style=for-the-badge&logo=vim&logoColor=white" />
   <img alt="Nim" src="https://img.shields.io/badge/-Nim-46a2f1?style=for-the-badge&logo=nim&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-F7DF1E?style=for-the-badge&logo=elixir&logoColor=black" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-F05032?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
