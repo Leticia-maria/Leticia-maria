@@ -24,6 +24,7 @@
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-5849BE?style=for-the-badge&logo=latex&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-46a2f1?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
