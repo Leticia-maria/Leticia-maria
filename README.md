@@ -4,6 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif" alt="Welcome!" width="750"/>
 <br> </br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Julia+Language+Developer;Computational+Chemist;Undergrad+in+Computer+Sciences)](https://git.io/typing-svg)
  
 [![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://github.com/Leticia-maria)
 [![Letícia Maria GitHub - GitHub followers](https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub&logo=GitHub&style=for-the-badge)](https://twitter.com/LetciaMariaPeq1)
