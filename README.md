@@ -63,8 +63,6 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-4B0082?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-228B22?style=for-the-badge&logo=vim&logoColor=white" />
-  <img alt="Nim" src="https://img.shields.io/badge/-Nim-46a2f1?style=for-the-badge&logo=nim&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-00CED1?style=for-the-badge&logo=powershell&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F05032?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Free-BSD" src="https://img.shields.io/badge/-FreeBSD-DD0031?style=for-the-badge&logo=freebsd&logoColor=white" />
