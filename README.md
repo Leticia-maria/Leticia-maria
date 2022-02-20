@@ -1,4 +1,7 @@
----
+<h2 align="center">
+  Welcome to Leticia Maria Pequeno Madureira's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h2>
 
 <div align='center'>
 
@@ -26,7 +29,6 @@
   
 </p>
 
----
 
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
 <!-- 🌱 I’m currently learning to live, to code and how to do chemistry computationally -->
@@ -42,11 +44,13 @@
  
 <div align=center>  
  
-[![Leticia-maria github activity graph](https://activity-graph.herokuapp.com/graph?username=Leticia-maria&theme=xcode)](https://github.com/Leticia-maria/github-readme-activity-graph)
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
 
 ---
+<h3 align="center">
+  Preferred technologies
+</h3>
  
 <p align=center>
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" />
@@ -70,7 +74,7 @@
 
 ---
  
-<details align=center>
+ <details align=center>
     <summary align=center style="cursor: pointer;">
         <strong>Want to collaborate on my projects?</strong>
     </summary>
@@ -93,6 +97,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
  
 [![Letícia Maria GitHub - Calendly](https://img.shields.io/badge/-Calendly-green?style=for-the-badge&logo=calendly&logoColor=white&link=)](https://calendly.com/leticiapequeno30/30min)
+[![Leticia-maria github activity graph](https://activity-graph.herokuapp.com/graph?username=Leticia-maria&theme=xcode)](https://github.com/Leticia-maria/github-readme-activity-graph)
 
  ---
 
