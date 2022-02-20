@@ -2,8 +2,8 @@
 
 <div align='center'>
 
-<img src="https://user-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif" alt="Welcome!" width="1100"/>
-<br> </br>
+<!--- <img src="https://user-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif" alt="Welcome!" width="1100"/>
+<br> </br> --->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Julia%20Language%20developer;%20and%20Computational%20Chemist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
