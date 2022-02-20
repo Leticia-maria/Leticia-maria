@@ -25,9 +25,7 @@
 <!--- ![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei) --->
 </div>
 
-Hello world! I'm Letícia Maria (she/her/hers), a final year Chemistry student in Brazil (@geem-lab). Currently, I work with projects involving the development of graphical interfaces, linear and polynomial algebra tools for quantum calculations of molecular electronic structure. I also implement tools for kinetic analysis of chemical reactions (@JuliaChemicalReactions). My main programming language is Julia, but I also program in Python, Rust and JavaScript (depends on the occasion and the project). I advocate free, open and clean code.
 
-future PhD student at CMU in Fall 2022 (@gomesgroup)
 
 
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
@@ -37,7 +35,9 @@ future PhD student at CMU in Fall 2022 (@gomesgroup)
 <!-- Turing Machine Learning developer and Scientific/Mathematics Tools programmer from Federal University of Santa Catarina -->
 <!-- This profile gives priority to: code legibility, quality and self-understable algorithms -->
 <!-- I do science for helping people -->
-<!-- TODO: Add last video link -->
+<!-- TODO: Add last video link Hello world! I'm Letícia Maria (she/her/hers), a final year Chemistry student in Brazil (@geem-lab). Currently, I work with projects involving the development of graphical interfaces, linear and polynomial algebra tools for quantum calculations of molecular electronic structure. I also implement tools for kinetic analysis of chemical reactions (@JuliaChemicalReactions). My main programming language is Julia, but I also program in Python, Rust and JavaScript (depends on the occasion and the project). I advocate free, open and clean code.
+
+future PhD student at CMU in Fall 2022 (@gomesgroup)-->
  
   <a href="https://github.com/Leticia-maria">
  
