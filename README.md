@@ -63,29 +63,58 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="github pages" src="https://img.shields.io/badge/-Github_Pages-E10098?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+     <img alt="bash" src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+      <img alt="scipy" src="https://img.shields.io/badge/-SciPy-0A9EDC?style=for-the-badge&logo=scipy&logoColor=white" />
+        <img alt="numpy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+          <img alt="pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-4B0082?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="Google Sheets" src="https://img.shields.io/badge/-Google_Sheets-1a73e8?style=for-the-badge&logo=google-sheets&logoColor=white" />
+      <img alt="Google Chrome" src="https://img.shields.io/badge/-Google_Chrome-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        <img alt="Google Drive" src="https://img.shields.io/badge/-Google_Drive-1a73e8?style=for-the-badge&logo=google-drive&logoColor=white" />
+          <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-F05032?style=for-the-badge&logo=firefox&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-228B22?style=for-the-badge&logo=vim&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F05032?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Free-BSD" src="https://img.shields.io/badge/-FreeBSD-DD0031?style=for-the-badge&logo=freebsd&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+   <img alt="Notion" src="https://img.shields.io/badge/-Notion-010101?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
- 
-<details align=center>
- <summary align=center style="cursor: pointer;">
-   <strong >Want to collaborate on my projects?</strong>
- </summary>
 
-[![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="center">
+  Want to collaborate on my projects?
+</h3>
  
 
-[![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- 
-[![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</details>
+<p align="center">
+  <a href="https://github.com/Leticia-maria/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leticia Maria's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Leticia-maria&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+  
+<h4 align="center">
+  📕 Top projects I've contributed to
+</h4>
+
+<p align="center">
+  <a href="https://github.com/JuliaLang/julia"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuliaLang&repo=julia&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="julia"></a>
+  <a href="https://github.com/geem-lab/overreact"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=geem-lab&repo=overreact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="overreact"></a>
+  <a href="https://github.com/JuliaGizmos/Gtk.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuliaGizmos&repo=Gtk.jl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
+  <a href="https://github.com/CaseyKneale/OpenSmiles.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CaseyKneale&repo=OpenSmiles.jl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
+</p>
+
+  
+<p align="center">
+  <a href="https://github.com/Leticia-maria/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+</p>
  
 
 📫 Would you ike to meet me?
@@ -94,7 +123,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 *Pick a slot **below** if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda*
 
  
-[![Letícia Maria GitHub - Calendly](https://img.shields.io/badge/-Calendly-green?style=for-the-badge&logo=calendly&logoColor=white&link=)](https://calendly.com/leticiapequeno30/30min)
+[![Letícia Maria GitHub - Calendly](https://img.shields.io/badge/-Calendly-green?style=for-the-badge&logo=google-calendar&logoColor=white&link=)](https://calendly.com/leticiapequeno30/30min)
  
 
  ---
