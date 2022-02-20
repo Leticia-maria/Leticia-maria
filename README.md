@@ -74,10 +74,10 @@
 
 ---
  
- <details align=center>
-    <summary align=center style="cursor: pointer;">
-        <strong>Want to collaborate on my projects?</strong>
-    </summary>
+<details align=center>
+ <summary align=center style="cursor: pointer;">
+   <strong >Want to collaborate on my projects?</strong>
+ </summary>
 
 [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
@@ -85,8 +85,6 @@
 [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
 [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
- 
 </details>
  
 
@@ -97,7 +95,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
  
 [![Letícia Maria GitHub - Calendly](https://img.shields.io/badge/-Calendly-green?style=for-the-badge&logo=calendly&logoColor=white&link=)](https://calendly.com/leticiapequeno30/30min)
-[![Leticia-maria github activity graph](https://activity-graph.herokuapp.com/graph?username=Leticia-maria&theme=xcode)](https://github.com/Leticia-maria/github-readme-activity-graph)
+ 
 
  ---
 
