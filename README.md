@@ -46,6 +46,14 @@
  
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<h4 align="justify">
+Hello world! I'm Letícia Maria (she/her/hers), a final year Chemistry student in Brazil (@geem-lab). Currently, I work with projects involving the development of graphical interfaces, linear and polynomial algebra tools for quantum calculations of molecular electronic structure. I also implement tools for kinetic analysis of chemical reactions (@JuliaChemicalReactions). My main programming language is Julia, but I also program in Python, Rust and JavaScript (depends on the occasion and the project). I advocate free, open and clean code.
+
+  future PhD student at CMU in Fall 2022 (@gomesgroup)
+
+</h4>  
 
 ---
 <h3 align="center">
@@ -140,7 +148,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
  
 
  ---
-
+<div align="center>
 <img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="1100"/>
 
  </div>
