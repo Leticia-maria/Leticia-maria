@@ -101,13 +101,26 @@
 </p>
   
 <h4 align="center">
+📘 My top open source projects
+</h4>
+ 
+<p align="center">
+  <a href="https://github.com/Leticia-maria/paper-track.rs"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=paper-track.rs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Leticia-maria/IsAvailable.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=IsAvailable.jl&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  
+  </p>
+ <p align="center">
+  <a href="https://github.com/Leticia-maria?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+  
+<h4 align="center">
   📕 Top projects I've contributed to
 </h4>
 
 <p align="center">
   <a href="https://github.com/JuliaLang/julia"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuliaLang&repo=julia&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="julia"></a>
   <a href="https://github.com/geem-lab/overreact"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=geem-lab&repo=overreact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="overreact"></a>
-  <a href="https://github.com/JuliaGizmos/Gtk.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuliaGizmos&repo=Gtk.jl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
+  <a href="https://github.com/JuliaGizmos/GtkReactive.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuliaGizmos&repo=GtkReactive.jl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
   <a href="https://github.com/CaseyKneale/OpenSmiles.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CaseyKneale&repo=OpenSmiles.jl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
 </p>
 
