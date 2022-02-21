@@ -5,12 +5,12 @@
 
 
 <div align='center'>
+<img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="1100"/>
 
-<img src="https://user-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif" alt="Welcome!" width="1100"/>
-<br> </br>
+<!--- <img src="https://-images.githubusercontent.com/60739184/151808174-6eb885c7-69c7-429a-878c-89ec208a0c2d.gif" alt="Welcome!" width="1100"/> --->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Julia%20Language%20developer;%20and%20Computational%20Chemist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20world!%20I'm%20a%20Catlover;Julia%20Language%20developer;%20Computational%20Chemist;Always%20learning%20new%20things;I%20do%20science%20for%20helping%20people&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
  
 [![Letícia Maria GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/LetciaMariaPeq1?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://github.com/Leticia-maria)
@@ -141,8 +141,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
  
 
  ---
-<div align="center>
-<img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="1100"/>
+
 
  </div>
  
