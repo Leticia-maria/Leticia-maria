@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
 
-
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/60739184/152025813-eba86174-c714-43d5-a64a-f470ed68b612.gif" alt="Welcome!" width="1100"/>
 
@@ -25,9 +24,6 @@
 ![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei)
 </div>
 
-
-
-
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
 <!-- 🌱 I’m currently learning to live, to code and how to do chemistry computationally -->
 <!-- 💞️ I’m looking to collaborate on Python and Julia projects -->
@@ -38,8 +34,6 @@
 <!-- TODO: Add last video link Hello world! I'm Letícia Maria (she/her/hers), a final year Chemistry student in Brazil (@geem-lab). Currently, I work with projects involving the development of graphical interfaces, linear and polynomial algebra tools for quantum calculations of molecular electronic structure. I also implement tools for kinetic analysis of chemical reactions (@JuliaChemicalReactions). My main programming language is Julia, but I also program in Python, Rust and JavaScript (depends on the occasion and the project). I advocate free, open and clean code.
 
 future PhD student at CMU in Fall 2022 (@gomesgroup)-->
- 
-
  
 <div align=center>  
  
