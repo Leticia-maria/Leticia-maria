@@ -22,7 +22,7 @@
   <a href="https://www.youtube.com/c/UCjGH-n0jtFDtaWAfC0LEE6w">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
  <a href="mailto:leticiapequeno30@gmail.com?subject=Hello%20Leticia,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<!--- ![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei) --->
+![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei)
 </div>
 
 
@@ -39,14 +39,17 @@
 
 future PhD student at CMU in Fall 2022 (@gomesgroup)-->
  
-  <a href="https://github.com/Leticia-maria">
- 
+
  
 <div align=center>  
  
 
 ![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
+<div align=justify>
+Hello world! I'm Letícia Maria (she/her/hers), a final year Chemistry student in Brazil (@geem-lab). Currently, I work with projects involving the development of graphical interfaces, linear and polynomial algebra tools for quantum calculations of molecular electronic structure. I also implement tools for kinetic analysis of chemical reactions (@JuliaChemicalReactions). My main programming language is Julia, but I also program in Python, Rust and JavaScript (depends on the occasion and the project). I advocate free, open and clean code.
+</div>
 
+*Incoming PhD student at CMU in Fall 2022 (@gomesgroup)*
 
 ---
 <h3 align="center">
