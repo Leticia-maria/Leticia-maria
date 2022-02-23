@@ -21,8 +21,10 @@
   <a href="https://www.youtube.com/c/UCjGH-n0jtFDtaWAfC0LEE6w">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCjGH-n0jtFDtaWAfC0LEE6w?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
  <a href="mailto:leticiapequeno30@gmail.com?subject=Hello%20Leticia,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei)
+[![Letícia Maria GitHub - Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei)](https://medium.com/@lmadurei)
+[![Letícia Maria GitHub - LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-madureira-276b23180/)](https://www.linkedin.com/in/let%C3%ADcia-madureira-276b23180/)
 </div>
+
 
 <!-- 👀 I’m interested in Julia Development, Python Projects -->
 <!-- 🌱 I’m currently learning to live, to code and how to do chemistry computationally -->
