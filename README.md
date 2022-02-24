@@ -106,8 +106,11 @@ Hello world! I'm Letícia Maria (she/her/hers), a final year Chemistry student i
  
 <p align="center">
   <a href="https://github.com/Leticia-maria/paper-track.rs"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=paper-track.rs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Leticia-maria/Divinity.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=Divinity.jl&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/Leticia-maria/IsAvailable.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=IsAvailable.jl&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  
+ <a href="https://github.com/Leticia-maria/TTs.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=TTs.jl&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Leticia-maria/Factorial2.jl"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=Factorial2.jl&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Leticia-maria/orca"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leticia-maria&repo=orca&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   </p>
  <p align="center">
   <a href="https://github.com/Leticia-maria?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
