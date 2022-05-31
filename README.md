@@ -22,4 +22,6 @@
   </a>
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![Leticia-maria gif](https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg)
+
+![](./profile-3d-contrib/profile-south-season-animate.svg)
