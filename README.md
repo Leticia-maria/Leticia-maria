@@ -7,17 +7,14 @@
   <a href="https://github.com/Leticia-maria">
     <img src="https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
   </a>
+  <a href="https://github.com/Leticia-maria?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Leticia-maria"/>
+  </a>
   <a href="https://medium.com/@lmadurei">
     <img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lmadurei"/>
   </a>
   <a href="https://www.linkedin.com/in/let%C3%ADcia-madureira-276b23180/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-madureira-276b23180/"/>
-  </a>
-  <a href="https://github.com/Leticia-maria?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Leticia-maria"/>
-  </a>
-  <a href="https://github.com/Leticia-maria?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Leticia-maria"/>
   </a>
   <a href="https://www.youtube.com/c/UCjGH-n0jtFDtaWAfC0LEE6w?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCjGH-n0jtFDtaWAfC0LEE6w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
