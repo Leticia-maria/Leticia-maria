@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+```
+
+    
