@@ -35,16 +35,6 @@
 </div> 
 
 <div align='center'>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20world!%20I'm%20a%20Catlover;Julia%20Language%20developer;%20Computational%20Chemist;Always%20learning%20new%20things;I%20do%20science%20for%20helping%20people&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</div> 
-
-<div align='center'>
-  <img src="https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
-<div align='center'>
   <img src="./profile-3d-contrib/profile-south-season-animate.svg"/>
 </div>
 
