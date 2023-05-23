@@ -1,10 +1,8 @@
 <h1 align="left">
-  Leticia Madureira
+  Leticia Maria Pequeno Madureira
 </h1>
 
-
-
-<div align='center'>
+<div align='left'>
   <a href="https://github.com/Leticia-maria">
     <img src="https://img.shields.io/github/followers/Leticia-maria?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
   </a>
@@ -19,11 +17,7 @@
   </a>
 </div> 
 
-<div align='center'>
-  <img src="./profile-3d-contrib/profile-south-season-animate.svg"/>
-</div>
-
-<div align=center>
+<div align=left>
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" />
@@ -31,12 +25,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-4B0082?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="Google Drive" src="https://img.shields.io/badge/-Google_Drive-1a73e8?style=for-the-badge&logo=google-drive&logoColor=white" />
-  <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-F05032?style=for-the-badge&logo=firefox&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-228B22?style=for-the-badge&logo=vim&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F05032?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-010101?style=for-the-badge&logo=notion&logoColor=white" />
+</div>
+
+<div align='center'>
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg"/>
 </div>
